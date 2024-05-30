@@ -1,0 +1,34 @@
+﻿@model Slider
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <form asp-action="Update" method="post" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Title</label>
+                    <input asp-for="Title" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Description</label>
+                    <input asp-for="Description" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">RedirectUrl</label>
+                    <input asp-for="RedirectUrl" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="RedirectUrl" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">ImageFile</label>
+                    <input asp-for="ImageFile" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

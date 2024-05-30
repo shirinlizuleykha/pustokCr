@@ -1,0 +1,1198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\PustokCr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\feature\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\feature\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\feature\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\feature\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\business\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:business\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\genre\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\genre\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\genre\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\feature\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\feature\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\pustokcr.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:pustokcr.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\genre\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\genre\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\genre\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678A22BF-4BE3-4697-B28F-974E7CB76746}|..\\PustokCrData\\PustokCrData.csproj|c:\\users\\asus\\source\\repos\\pustokcrdata\\migrations\\20240530110101_slidertablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\services\\abstracts\\ifeatureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678A22BF-4BE3-4697-B28F-974E7CB76746}|..\\PustokCrData\\PustokCrData.csproj|c:\\users\\asus\\source\\repos\\pustokcrdata\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\viewservices\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:viewservices\\layoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\services\\abstracts\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\services\\concretes\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\exceptions\\filenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|c:\\users\\asus\\source\\repos\\pustokcr\\areas\\admin\\views\\slider\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C57E755-9A18-48EB-92B1-7C271F9C62D8}|PustokCr.csproj|solutionrelative:areas\\admin\\views\\slider\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\exceptions\\imagecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\exceptions\\filenullreferenceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\exceptions\\duplicategenreexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\services\\concretes\\featureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\services\\abstracts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678A22BF-4BE3-4697-B28F-974E7CB76746}|..\\PustokCrData\\PustokCrData.csproj|c:\\users\\asus\\source\\repos\\pustokcrdata\\repositoryconcretes\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678A22BF-4BE3-4697-B28F-974E7CB76746}|..\\PustokCrData\\PustokCrData.csproj|c:\\users\\asus\\source\\repos\\pustokcrdata\\repositoryconcretes\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678A22BF-4BE3-4697-B28F-974E7CB76746}|..\\PustokCrData\\PustokCrData.csproj|c:\\users\\asus\\source\\repos\\pustokcrdata\\repositoryconcretes\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678A22BF-4BE3-4697-B28F-974E7CB76746}|..\\PustokCrData\\PustokCrData.csproj|c:\\users\\asus\\source\\repos\\pustokcrdata\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678A22BF-4BE3-4697-B28F-974E7CB76746}|..\\PustokCrData\\PustokCrData.csproj|c:\\users\\asus\\source\\repos\\pustokcrdata\\repositoryconcretes\\featurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678A22BF-4BE3-4697-B28F-974E7CB76746}|..\\PustokCrData\\PustokCrData.csproj|c:\\users\\asus\\source\\repos\\pustokcrdata\\repositoryconcretes\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\repositoryabstracts\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\repositoryabstracts\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\repositoryabstracts\\igenrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\repositoryabstracts\\ifeaturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\repositoryabstracts\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\models\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81445D7-6A76-45B1-B1FE-F9EC217C3DBB}|..\\PustokCrBusiness\\PustokCrBusiness.csproj|c:\\users\\asus\\source\\repos\\pustokcrbusiness\\pustokcrbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8670E32C-E802-4F38-B678-3790B8100172}|..\\PustokCrCore\\PustokCrCore.csproj|c:\\users\\asus\\source\\repos\\pustokcrcore\\pustokcrcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemberRegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MemberRegisterVm.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeToolTip": "ViewModels\\MemberRegisterVm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:15:06.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:04:35.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:17:05.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:35:43.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABABAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:52:26.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Feature\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:07:38.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Feature\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:07:46.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:15:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:14:28.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\ViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\ViewModels\\HomeVm.cs",
+              "RelativeToolTip": "ViewModels\\HomeVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:07:59.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\ViewModels\\AdminLoginVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminLoginVm.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\ViewModels\\AdminLoginVm.cs",
+              "RelativeToolTip": "ViewModels\\AdminLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:05:18.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Business\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Business\\Exceptions.cs",
+              "RelativeToolTip": "Business\\Exceptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:45:14.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:06:48.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:06:35.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:07:09.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Genre\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Genre\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Genre\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Genre\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:07:25.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Genre\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Genre\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Genre\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Genre\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:07:22.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Feature\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:53:18.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Feature\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:07:51.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:06:21.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PustokCr",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\PustokCr.csproj",
+              "RelativeDocumentMoniker": "PustokCr.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\PustokCr.csproj",
+              "RelativeToolTip": "PustokCr.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T11:06:59.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GenreController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Controllers\\GenreController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\GenreController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Controllers\\GenreController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\GenreController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowFkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:27:48.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FeatureController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\FeatureController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Controllers\\FeatureController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\FeatureController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:27:12.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:01:35.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Genre\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Genre\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Genre\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Genre\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:07:32.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAwwHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:28:45.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Genre\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Genre\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Genre\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Genre\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:07:18.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T10:22:36.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240530110101_SliderTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\Migrations\\20240530110101_SliderTableCreated.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrData\\Migrations\\20240530110101_SliderTableCreated.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\Migrations\\20240530110101_SliderTableCreated.cs",
+              "RelativeToolTip": "..\\PustokCrData\\Migrations\\20240530110101_SliderTableCreated.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwBAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T11:01:02.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Extensions\\Helper.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:57:40.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:08:56.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-30T09:18:41.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IFeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Abstracts\\IFeatureService.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Services\\Abstracts\\IFeatureService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Abstracts\\IFeatureService.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Services\\Abstracts\\IFeatureService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:48:53.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:10:54.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T09:17:18.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:14:00.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T09:17:21.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrData\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "..\\PustokCrData\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:43:38.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LayoutService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\ViewServices\\LayoutService.cs",
+              "RelativeDocumentMoniker": "ViewServices\\LayoutService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\ViewServices\\LayoutService.cs",
+              "RelativeToolTip": "ViewServices\\LayoutService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T10:21:58.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Abstracts\\IGenreService.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Services\\Abstracts\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Abstracts\\IGenreService.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Services\\Abstracts\\IGenreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:49:14.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Concretes\\SliderService.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Services\\Concretes\\SliderService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Concretes\\SliderService.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Services\\Concretes\\SliderService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:50:19.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Concretes\\GenreService.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Services\\Concretes\\GenreService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Concretes\\GenreService.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Services\\Concretes\\GenreService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:50:04.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FileNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\FileNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Exceptions\\FileNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\FileNotFoundException.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Exceptions\\FileNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:54:22.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:06:53.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:07:01.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:06:58.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCr\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T10:06:56.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ImageSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\ImageSizeException.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Exceptions\\ImageSizeException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\ImageSizeException.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Exceptions\\ImageSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:55:06.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ImageContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\ImageContentTypeException.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Exceptions\\ImageContentTypeException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\ImageContentTypeException.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Exceptions\\ImageContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:54:54.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FileNullReferenceException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\FileNullReferenceException.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Exceptions\\FileNullReferenceException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\FileNullReferenceException.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Exceptions\\FileNullReferenceException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:54:39.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:53:59.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DuplicateGenreException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\DuplicateGenreException.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Exceptions\\DuplicateGenreException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Exceptions\\DuplicateGenreException.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Exceptions\\DuplicateGenreException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:53:44.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FeatureService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Concretes\\FeatureService.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Services\\Concretes\\FeatureService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Concretes\\FeatureService.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Services\\Concretes\\FeatureService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA8wC0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:49:51.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\Services\\Abstracts\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeToolTip": "..\\PustokCrBusiness\\Services\\Abstracts\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:49:32.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrData\\RepositoryConcretes\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeToolTip": "..\\PustokCrData\\RepositoryConcretes\\TagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:45:52.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrData\\RepositoryConcretes\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeToolTip": "..\\PustokCrData\\RepositoryConcretes\\SliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:45:37.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrData\\RepositoryConcretes\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\GenreRepository.cs",
+              "RelativeToolTip": "..\\PustokCrData\\RepositoryConcretes\\GenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:45:23.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrData\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "..\\PustokCrData\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:45:08.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FeatureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\FeatureRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrData\\RepositoryConcretes\\FeatureRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\FeatureRepository.cs",
+              "RelativeToolTip": "..\\PustokCrData\\RepositoryConcretes\\FeatureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:44:54.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrData\\RepositoryConcretes\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrData\\RepositoryConcretes\\BookRepository.cs",
+              "RelativeToolTip": "..\\PustokCrData\\RepositoryConcretes\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:44:40.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\RepositoryAbstracts\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\ITagRepository.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\RepositoryAbstracts\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:40:45.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:40:20.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IGenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\IGenreRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\RepositoryAbstracts\\IGenreRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\IGenreRepository.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\RepositoryAbstracts\\IGenreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:39:49.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:39:31.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IFeatureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\RepositoryAbstracts\\IFeatureRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:39:13.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\RepositoryAbstracts\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\RepositoryAbstracts\\IBookRepository.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\RepositoryAbstracts\\IBookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:38:51.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\Tag.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:35:51.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\Slider.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\Models\\Slider.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:35:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\Genre.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:35:39.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\Feature.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\Models\\Feature.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\Feature.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\Models\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:35:32.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\Book.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\Models\\Book.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:35:14.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\AppUser.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:34:12.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "..\\PustokCrCore\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T09:33:17.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "PustokCrBusiness.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\PustokCrBusiness.csproj",
+              "RelativeDocumentMoniker": "..\\PustokCrBusiness\\PustokCrBusiness.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrBusiness\\PustokCrBusiness.csproj",
+              "RelativeToolTip": "..\\PustokCrBusiness\\PustokCrBusiness.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T09:29:40.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "PustokCrCore.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\PustokCrCore.csproj",
+              "RelativeDocumentMoniker": "..\\PustokCrCore\\PustokCrCore.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\PustokCrCore\\PustokCrCore.csproj",
+              "RelativeToolTip": "..\\PustokCrCore\\PustokCrCore.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T09:28:33.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

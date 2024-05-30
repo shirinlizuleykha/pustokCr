@@ -1,0 +1,16 @@
+﻿@model Genre
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <form asp-action="Update" method="post">
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Genre Name</label>
+                    <input asp-for="Name" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

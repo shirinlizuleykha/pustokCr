@@ -1,0 +1,15 @@
+﻿@model Genre
+<div class="container">
+    <div class="row">
+        <div class="col-4">
+            <form asp-action="DeleteGenre" method="post" class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Name</h5>
+                    <input asp-for="@Model.Id" hidden value="@Model.Id" />
+                    <a asp-action="Index" class="btn btn-info">Go Back</a>
+                    <button type="submit" class="btn btn-danger">Delete</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

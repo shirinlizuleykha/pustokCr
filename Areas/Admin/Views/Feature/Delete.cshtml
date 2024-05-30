@@ -1,0 +1,19 @@
+﻿@model Feature
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form asp-action="DeletePost" method="post">
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.Raw(Model.Icon)</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">@Model.Title</h6>
+                        <p class="card-text">@Model.Description</p>
+                        <input asp-for="@Model.Id" hidden value="@Model.Id" />
+                        <a asp-action="Index" asp-controller="Feature" class="btn btn-outline-info">Go Back</a>
+                        <button type="submit" class="btn btn-outline-danger">Delete</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
